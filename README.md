@@ -12,5 +12,5 @@ This GitHub repository hosts a project aimed at efficiently organizing laborator
 
 - **Scan and Update**: Use a QR code scanner to quickly scan materials and update their status, helping to keep inventory accurate in real-time.
 
-- **User Authentication**: Implement secure user authentication to control access and ensure that only authorized personnel can make changes to the material database.
+- **User Authentication**: Implement a secure user authentication to control access and ensure that only authorized personnel can make changes to the material database.
 

@@ -6,7 +6,7 @@
 This GitHub repository hosts a project aimed at efficiently organizing laboratory materials using QR codes. The project leverages QR code technology to streamline the tracking and management of various materials within a laboratory setting. Whether you are a researcher, scientist, or laboratory manager, this tool provides a user-friendly solution to enhance organization and reduce the chances of errors.
 
 
-![image](https://github.com/omo776/MiQRo/assets/88599328/55d19336-fb98-4341-b57b-d3998310d370)
+![Screenshot from 2024-07-01 02-40-14](https://github.com/omo776/MiQRo/assets/88599328/cf234e36-441b-46ca-9c25-5b0acbf5bc75)
 
 
 

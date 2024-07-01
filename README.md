@@ -14,3 +14,7 @@ This GitHub repository hosts a project aimed at efficiently organizing laborator
 
 - **User Authentication**: Implement a secure user authentication to control access and ensure that only authorized personnel can make changes to the material database.
 
+
+## Presentation
+
+View more on MiQRo here [Google Slides presentation](https://docs.google.com/presentation/d/1hu2j97T1yV_E96WPLF03cXnuuFJWPl0lDD31CscAD9g/edit#slide=id.g26edc206ec9_0_155) for more details.
